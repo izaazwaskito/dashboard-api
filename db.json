@@ -14,6 +14,15 @@
       "expenses": 1939
     }
   ],
+  "transaction": [
+    {
+      "id": 1,
+      "cname": "Usha Salecus",
+      "cemail": "usha@gmail.com",
+      "iname": "Buy",
+      "iamount": 12
+    }
+  ],
   "card": {
     "name": "Izaaz Waskito",
     "nocard": 6271782516290800,
