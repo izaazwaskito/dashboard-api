@@ -1,9 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "account": [
+    {
+      "id": 1,
+      "name": "Izaaz Waskito",
+      "email": "izaaz.waskito@gmail.com"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "balance": [
+    {
+      "id": 1,
+      "balance": 7261,
+      "income": 9200,
+      "expenses": 1939
+    }
   ],
-  "profile": { "name": "typicode" }
+  "card": {
+    "name": "Izaaz Waskito",
+    "nocard": 6271782516290800,
+    "cvv": 182
+  }
 }
